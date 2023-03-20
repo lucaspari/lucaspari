@@ -22,4 +22,4 @@
 <img  align="center" height='200px' width="49%" src="https://github-readme-stats.vercel.app/api?username=lucaspari&show_icons=true&locale=en" alt="lucaspari" />
 </p>
 
-<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspari&" alt="lucaspari" /></p>
+<p><img width="100%" height='200px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaspari&" alt="lucaspari" /></p>
