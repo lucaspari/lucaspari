@@ -47,4 +47,4 @@
 
 #### 💻 This week, I spent my time on
 
-![Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspari&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/b70d400b-398b-42d9-b9f9-cf7c1ab13b00.svg)](https://wakatime.com/@b70d400b-398b-42d9-b9f9-cf7c1ab13b00)
