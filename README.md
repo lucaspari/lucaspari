@@ -1,9 +1,9 @@
-## Lucas Fernando Pari, 25y - Software Engineer
+## Lucas Fernando Pari, 26y - Software Engineer
 
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Kubernetes & AWS</b>
+- 🌱  I’m currently learning <b>AWS</b>
 
 #### 👨‍💻 Stack
 
