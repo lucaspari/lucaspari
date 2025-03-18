@@ -2,7 +2,7 @@
 
 #### 📖 About
 
-- 🏠 Living in <b>São Roque, SP</b> - Brazil
+- 🏠 Living in <b>São Paulo, SP</b> - Brazil
 - 🌱  I’m currently learning <b>AWS</b>
 
 #### 👨‍💻 Stack
